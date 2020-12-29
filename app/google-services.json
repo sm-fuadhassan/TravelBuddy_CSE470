@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "246990242010",
+    "project_id": "travelbuddy-f830b",
+    "storage_bucket": "travelbuddy-f830b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246990242010:android:e4fa0df4aae05c3bb5a5e3",
+        "android_client_info": {
+          "package_name": "com.testapp.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "246990242010-oa9jessl2oiedkvb3gkci5bn79vsr1h9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.testapp.travel",
+            "certificate_hash": "0a9f6baa3d9ed5947810ae27ccfbd3e694a1646b"
+          }
+        },
+        {
+          "client_id": "246990242010-0cn26ho6rbt7lu34l6efku7n6vdkoi06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOhaZ2Y5KgRXIxm5vUODhhVPREhDeiJb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "246990242010-0cn26ho6rbt7lu34l6efku7n6vdkoi06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
